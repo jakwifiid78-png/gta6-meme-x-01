@@ -1,3 +1,7 @@
+[![make.fun](https://make.fun/badge/gta6-meme-x-01.svg)](https://make.fun/bounty/gta6-meme-x-01)
+[![rank](https://make.fun/badge/gta6-meme-x-01/jakwifiid78-png/gta6-meme-x-01/rank.svg)](https://make.fun/bounty/gta6-meme-x-01)
+[![reward](https://make.fun/badge/gta6-meme-x-01/jakwifiid78-png/gta6-meme-x-01/reward.svg)](https://make.fun/bounty/gta6-meme-x-01)
+
 # GTA 6 meme — gta6-meme-x-01 (v2)
 
 My entry for make.fun's **"Post a GTA 6 meme on X"** bounty
